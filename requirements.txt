@@ -1,4 +1,4 @@
-pypiwin32==223
+pypiwin32
 pywin32==219
 alabaster==0.7.12
 argh==0.26.2
