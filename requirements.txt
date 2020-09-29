@@ -1,5 +1,5 @@
 pypiwin32==223
-pywin32==223
+pywin32==227
 alabaster==0.7.12
 argh==0.26.2
 async-generator==1.10
