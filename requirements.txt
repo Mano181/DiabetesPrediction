@@ -17,6 +17,7 @@ entrypoints==0.3
 flake8==3.8.3
 Flask==1.1.2
 future==0.18.2
+gunicorn
 imagesize==1.2.0
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
